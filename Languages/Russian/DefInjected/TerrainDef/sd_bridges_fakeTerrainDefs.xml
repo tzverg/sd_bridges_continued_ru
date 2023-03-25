@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<sd_bridges_fakeWaterDeep.label>искуственное глубоководье</sd_bridges_fakeWaterDeep.label>
+	<sd_bridges_fakeWaterDeep.tools.0.label>вода</sd_bridges_fakeWaterDeep.tools.0.label>
+	
+	<sd_bridges_fakeWaterOceanDeep.label>искуственное океаническое глубоководье</sd_bridges_fakeWaterOceanDeep.label>
+	<sd_bridges_fakeWaterOceanDeep.tools.0.label>вода</sd_bridges_fakeWaterOceanDeep.tools.0.label>
+	
+	<sd_bridges_fakeWaterMovingChestDeep.label>искуственное речное глубоководье</sd_bridges_fakeWaterMovingChestDeep.label>
+	
+	<sd_bridges_fakeWaterShallow.label>искуственное мелководье</sd_bridges_fakeWaterShallow.label>
+	<sd_bridges_fakeWaterShallow.tools.0.label>вода</sd_bridges_fakeWaterShallow.tools.0.label>
+	
+	<sd_bridges_fakeWaterOceanShallow.label>искуственное океаническое мелководье</sd_bridges_fakeWaterOceanShallow.label>
+	<sd_bridges_fakeWaterOceanShallow.tools.0.label>вода</sd_bridges_fakeWaterOceanShallow.tools.0.label>
+	
+	<sd_bridges_fakeWaterMovingShallow.label>искуственное речное мелководье</sd_bridges_fakeWaterMovingShallow.label>
+	<sd_bridges_fakeWaterMovingShallow.tools.0.label>вода</sd_bridges_fakeWaterMovingShallow.tools.0.label>
+	
+	<sd_bridges_fakeMud.label>искуственная грязевая яма</sd_bridges_fakeMud.label>
+	<sd_bridges_fakeMud.tools.0.label>грязь</sd_bridges_fakeMud.tools.0.label>
+	
+	<sd_bridges_fakeMud.label>искуственное болото</sd_bridges_fakeMud.label>
+	<sd_bridges_fakeMud.tools.0.label>ил</sd_bridges_fakeMud.tools.0.label>
+	
+</LanguageData>

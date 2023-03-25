@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<sd_bridges_research_bridge.label>мосты</sd_bridges_research_bridge.label>
+	<sd_bridges_research_bridge.description>Исследование позволит вашим колонистам устанавливать фундаменты на мелководье, на которые будет возможно устанавливать мосты или платформы. Разблокирует рецепты для производства наборов материалов для фундамента на верстаках обработки камня.</sd_bridges_research_bridge.description>
+	
+	<sd_bridges_research_terraforming.label>терраформирование</sd_bridges_research_terraforming.label>
+	<sd_bridges_research_terraforming.description>Исследование открывает потенциал для кардинального изменения ландшафта карты. Позволяет вашим колонистам создавать искуственные озёра, в том числе и глубоководные, либо же наоборот осуществлять насыпи для получения возможности строительства в ранее недоступных местах.</sd_bridges_research_terraforming.description>
+	
+	<sd_bridges_research_drawbridge.label>разводные мосты</sd_bridges_research_terraforming.label>
+	<sd_bridges_research_drawbridge.description>Исследование открывает возможность постройки разводных мостов через короткие перешейки воды или болотистой местности.</sd_bridges_research_terraforming.description>
+	
+</LanguageData>

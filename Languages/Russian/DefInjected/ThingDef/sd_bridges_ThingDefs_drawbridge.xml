@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<sd_bridges_drawbridge_up.label>поднятый разводной мост</sd_bridges_drawbridge_up.label>
+	<sd_bridges_drawbridge_up.description>Это обычный разводной мост в разведённом состоянии. Механизм развода моста приводится в действие сложной системой грузов и противовесов. Очень удобное оборонительное приспособление, можно сказать что его изобретение стало прорывом оборонной инженерии.</sd_bridges_drawbridge_up.description>
+	
+	<sd_bridges_doubledrawbridge_up.label>поднятый широкий разводной мост</sd_bridges_doubledrawbridge_up.label>
+	<sd_bridges_doubledrawbridge_up.description>Это более широкая версия разводного моста в разведённом состоянии. Механизм развода моста приводится в действие сложной системой грузов и противовесов. Очень удобное оборонительное приспособление, можно сказать что его изобретение стало прорывом оборонной инженерии.</sd_bridges_doubledrawbridge_up.description>
+	
+	<sd_bridges_drawbridge_down.label>опущенный разводной мост</sd_bridges_doubledrawbridge_up.label>
+	<sd_bridges_drawbridge_down.description>Это обычный разводной мост в сведённом состоянии. Механизм развода моста приводится в действие сложной системой грузов и противовесов. Очень удобное оборонительное приспособление, можно сказать что его изобретение стало прорывом оборонной инженерии.</sd_bridges_doubledrawbridge_up.description>
+	
+	<sd_bridges_doubledrawbridge_down.label>опущенный широкий разводной мост</sd_bridges_doubledrawbridge_down.label>
+	<sd_bridges_doubledrawbridge_down.description>Это более широкая версия разводного моста в сведённом состоянии. Механизм развода моста приводится в действие сложной системой грузов и противовесов. Очень удобное оборонительное приспособление, можно сказать что его изобретение стало прорывом оборонной инженерии.</sd_bridges_doubledrawbridge_down.description>
+	
+</LanguageData>

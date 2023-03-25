@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<sd_bridges_pontoonbridgepart.label>модуль понтонного моста</sd_bridges_pontoonbridgepart.label>
+	<sd_bridges_pontoonbridgepart.description>Это строительный модуль, используемый для наведения понтонных мостов через воду, грязь и болотистую местность. Модуль может быть изготовлен на верстаках по обработке камня из следующих базовых материалов: металл, дерево. Пешки могут только ходить по понтонным мостам, но не стоять на них.</sd_bridges_pontoonbridgepart.description>
+	
+</LanguageData>

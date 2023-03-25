@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<sd_bridges_category_terraform.label>Терраформирование</sd_bridges_category_terraform.label>
+	<sd_bridges_category_terraform.description>инструменты для терраформирования</sd_bridges_category_terraform.description>
+	
+</LanguageData>

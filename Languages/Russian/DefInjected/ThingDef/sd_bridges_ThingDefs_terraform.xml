@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<sd_bridges_terraform_DigUpWater.label>подготовка грязевой ямы</sd_bridges_terraform_DigUpWater.label>
+	<sd_bridges_terraform_DigUpWater.description>На данном участке идёт подготовка местности для последующего формирования на её основе грязевой ямы. По окончанию работ станет возможно начать работы над превращением участка в полноценное мелководье.</sd_bridges_terraform_DigUpWater.description>
+	
+	<sd_bridges_terraform_ShallowWater.label>подготовка участка мелководья</sd_bridges_terraform_ShallowWater.label>
+	<sd_bridges_terraform_ShallowWater.description>На данном участке идёт подготовка местности для последующего формирования на её основе мелководья. Работу возможно начать только на грязевом/заболоченном участке местности или на фундаменте, чтобы разобрать его и оставить очищенную местность мелководья. Мелководье замедляет скорость передвижения пешек.</sd_bridges_terraform_ShallowWater.description>
+	
+	<sd_bridges_terraform_ShallowMovingWater.label>подготовка участка речного мелководья</sd_bridges_terraform_ShallowMovingWater.label>
+	<sd_bridges_terraform_ShallowMovingWater.description>На данном участке идёт подготовка местности для последующего формирования на её основе речного мелководья. Работу возможно начать только на грязевом/заболоченном участке местности или на фундаменте, чтобы разобрать его и оставить очищенную местность речного мелководья. Речное мелководье, как и обычное, замедляет скорость передвижения пешек.</sd_bridges_terraform_ShallowMovingWater.description>
+	
+	<sd_bridges_terraform_DeepWater.label>подготовка участка глубоководья</sd_bridges_terraform_DeepWater.label>
+	<sd_bridges_terraform_DeepWater.description>На данном участке идёт подготовка местности для последующего формирования на её основе глубоководья. Работу возможно начать только на участке местности мелководья. Глубоководье, препятствует передвижению по нему нелетающих пешек.</sd_bridges_terraform_DeepWater.description>
+	
+	<sd_bridges_terraform_ChestDeepMovingWater.label>подготовка участка речного глубоководья</sd_bridges_terraform_ChestDeepMovingWater.label>
+	<sd_bridges_terraform_ChestDeepMovingWater.description>На данном участке идёт подготовка местности для последующего формирования на её основе речного глубоководья. Работу возможно начать только на участке местности речного мелководья. Речное глубоководье, как и любое другое глубоководье, препятствует передвижению по нему нелетающих пешек.</sd_bridges_terraform_ChestDeepMovingWater.description>
+	
+	<sd_bridges_terraform_MarshWater.label>подготовка участка болота</sd_bridges_terraform_MarshWater.label>
+	<sd_bridges_terraform_MarshWater.description>На данном участке идёт подготовка местности для последующего формирования на её основе болотистой местности. Работу возможно начать только на грязевом участке местности и участке мелководья, а так-же на уже заболоченном участке местности. Болотистая местность, как и любое другое болото, замедляет передвижение по нему нелетающих пешек.</sd_bridges_terraform_MarshWater.description>
+	
+</LanguageData>

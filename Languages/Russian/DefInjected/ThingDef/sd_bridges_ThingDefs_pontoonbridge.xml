@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<sd_bridges_pontoonbridge.label>понтонный мост</sd_bridges_pontoonbridge.label>
+	<sd_bridges_pontoonbridge.description>Этот понтонный мост может быть установлен только на воде/грязи/болоте. Он снимает штраф от переходов по местности. Вы не можете стоять на нем, только передвигаться. Эта конструкция предназначена для быстрой переправы через водые преграды.</sd_bridges_pontoonbridge.description>
+	
+</LanguageData>

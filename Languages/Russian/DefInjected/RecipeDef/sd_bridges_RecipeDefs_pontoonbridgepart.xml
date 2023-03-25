@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<sd_bridges_recipe_pontoonbridgepart_base.label>изготовить модуль понтонного моста</sd_bridges_recipe_pontoonbridgepart_base.label>
+	<sd_bridges_recipe_pontoonbridgepart_base.description>превращает ресурсы в модуль понтонного моста (10 единиц ресурсов = 1 модуль понтонного моста). Этот модуль используется для строительства понтонных мостов.</sd_bridges_recipe_pontoonbridgepart_base.description>
+	<sd_bridges_recipe_pontoonbridgepart_base.jobString>изготавливает модуль понтонного моста</sd_bridges_recipe_pontoonbridgepart_base.jobString>
+	
+	<sd_bridges_recipe_pontoonbridgepart_tablestone.label>изготовить модуль понтонного моста</sd_bridges_recipe_pontoonbridgepart_tablestone.label>
+	<sd_bridges_recipe_pontoonbridgepart_tablestone.description>превращает ресурсы в модуль понтонного моста (10 единиц ресурсов = 1 модуль понтонного моста). Этот модуль используется для строительства понтонных мостов.</sd_bridges_recipe_pontoonbridgepart_tablestone.description>
+	<sd_bridges_recipe_pontoonbridgepart_tablestone.jobString>изготавливает модуль понтонного моста</sd_bridges_recipe_pontoonbridgepart_tablestone.jobString>
+	
+	<sd_bridges_recipe_pontoonbridgepart_tablestone_10times.label>изготовить модуль понтонного моста (х10)</sd_bridges_recipe_pontoonbridgepart_tablestone_10times.label>
+	<sd_bridges_recipe_pontoonbridgepart_tablestone_10times.description>превращает ресурсы в модули понтонного моста (100 единиц ресурсов = 10 модулей понтонного моста). Этот модуль используется для строительства понтонных мостов.</sd_bridges_recipe_pontoonbridgepart_tablestone_10times.description>
+	<sd_bridges_recipe_pontoonbridgepart_tablestone_10times.jobString>изготавливает модуль понтонного моста (х10)</sd_bridges_recipe_pontoonbridgepart_tablestone_10times.jobString>
+	
+	<sd_bridges_recipe_pontoonbridgepart_tablemachin.label>изготовить модуль понтонного моста</sd_bridges_recipe_pontoonbridgepart_tablemachin.label>
+	<sd_bridges_recipe_pontoonbridgepart_tablemachin.description>превращает ресурсы в модуль понтонного моста (10 единиц ресурсов = 1 модуль понтонного моста). Этот модуль используется для строительства понтонных мостов.</sd_bridges_recipe_pontoonbridgepart_tablemachin.description>
+	<sd_bridges_recipe_pontoonbridgepart_tablemachin.jobString>изготавливает модуль понтонного моста</sd_bridges_recipe_pontoonbridgepart_tablemachin.jobString>
+	
+	<sd_bridges_recipe_pontoonbridgepart_tablemachin_10times.label>изготовить модуль понтонного моста (х10)</sd_bridges_recipe_pontoonbridgepart_tablemachin_10times.label>
+	<sd_bridges_recipe_pontoonbridgepart_tablemachin_10times.description>превращает ресурсы в модули понтонного моста (100 единиц ресурсов = 10 модулей понтонного моста). Этот модуль используется для строительства понтонных мостов.</sd_bridges_recipe_pontoonbridgepart_tablemachin_10times.description>
+	<sd_bridges_recipe_pontoonbridgepart_tablemachin_10times.jobString>изготавливает модуль понтонного моста (х10)</sd_bridges_recipe_pontoonbridgepart_tablemachin_10times.jobString>
+	
+</LanguageData>
